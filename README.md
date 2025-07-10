@@ -14,44 +14,56 @@
 - **GitHub:** [maxo99](https://github.com/maxo99/)
 
 
-## 🛠️ Technical Skills
-
-
-### **Cloud & DevOps**
-- AWS ECS, OpenSearch
-
-
-### **Tools & Technologies**
-- SVN, JIRA, Hibernate, RESTful APIs
-- Proxmox, SQL (PostgreSQL), OpenAPI
-
----
-
-
 ## 🚀 Current Projects
+
+### **JobFinder**
+- Implementation of RAG (Retrieval Augmented Generation) for job search and application tracking.
+- Follow along at my repo: [jobfinder](https://github.com/maxo99/jobfinder)
+- Checkout the walkthrough section for a detailed overview of data augmentation process: [JobFinder Walkthrough](https://github.com/maxo99/jobfinder?tab=readme-ov-file#walkthrough)
+
+##### RoadMap
+- Incorporate Elasticsearch for advanced search capabilities: [branch:feat/elasticsearch](https://github.com/maxo99/jobfinder/tree/feat/elasticsearch)
+- Implement a deterministic model to replace OpenAI as scoring engine for job applications. (OpenAI will remain in place for summarization process.)
+
+
+### **SummonsScraper**
+- A web scraper for retrieving and processing legal summons documents for my brother's law firm.
+- Follow along at my repo: [summonsscraper](https://github.com/maxo99/summonsscraper)
+##### RoadMap
+- Additional testing and finalization of AWS OpenTofu deployment process: [branch:ci/deployment](https://github.com/maxo99/summonsscraper/tree/ci/deployment)
+- Refactor existing private repository for as container to be included with the terraform deployment of summonsscraper.
+
 
 ### **HomeLab Build**
 - Gaining functional experiance with debian-based systems, virtualization, docker and other new exciting technologies. 
 - Learning secure system administration and infrastructure management while building out a home network of interconnecting services and sensors.
 - Follow along at my repo: [homelab](https://github.com/maxo99/homelab)
 
+##### RoadMap
+- Complete LUKS encrypted BTRFS RAID1 array configuration and population.
+    - Research offsite backup solutions and test restore process.
+- Configure old gaming PC into the Proxmox cluster for Ollama and other computationally intensive tasks.
+- Configure VLAN for home network to isolate IoT devices and improve security.
 
 ### **HomeAssistant**
 - Growing my semi-automated, permaculture homestead everyday.
+##### RoadMap
 - Update irrigation valves to control garden irrigation for smart watering based off weather readings of at home [Tempest Weather System](https://shop.tempest.earth/products/tempest).
 - Spec out plans for [reef-pi](https://reef-pi.github.io/) builds.
 - Install cameras to monitor the chicken run and coop along with preditor detection to trigger sprinker system and publish notification alerts. 
 
 ### **Chili Farmer and Saucier**
 - Several years of cultivating and processing chili peppers into hot sauces and powders. 
-
+##### RoadMap
+- Get naming copyright and label designed for this summer's batches. 
 
 
 ### **Gate Designer**
 - Experimenting with new coding tools and analysis softwares to assist in designing of a steel cantilever gate to replace the wooden one taken out by Hurricane Milton. 
 - Follow along at my repo: [gate_designer](https://github.com/maxo99/gate_designer)
-
----
+##### RoadMap 
+- Review materials with gate_designer and finalize design.
+- Practice welding skills on scrap metal to prepare for gate build.
 
 
 ## 💼 Professional Experience
@@ -81,12 +93,17 @@
 **MessagingHub / MicroServices Team**
 - Developed microservices for automated tenant provisioning using AWS tools and services
 - FACILITACTED TRANSFER OF SVN TO GIT ? 
-- Implemented CI/CD(GitHub Actions) static code analysis while managing vulnerabilites through JIRA  for FedRAMP compliance of multiple J2EE web applications. 
+- Implemented CI/CD(GitHub Actions) 
+- OPENAPI validation of RESTful APIs.
+Hibernate, RESTful APIs
+- SQL (PostgreSQL), OpenAPI
+
+ while managing vulnerabilites through JIRA for FedRAMP compliance of multiple J2EE web applications. 
 
 #### **Software Engineer I** | *June 2019 - May 2022*
 **MessagingHub Team (Java)**
 - Migrated high-volume messaging workflows to a serverless architecture using AWS SQS and Lambda Functions(Java).
-- Developed Android(Java) library for digital channel testing of push notifications.
+- Developed an Android(Java) library for digital channel testing of push notifications.
 - Enhanced application monitoring of runtime JMX metrics with dynamic alert thresholds via Dynatrace.
 
 
@@ -105,7 +122,6 @@
 - Member of UCF Rugby Club
 
 
----
 
 
 ---
