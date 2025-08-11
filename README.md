@@ -19,7 +19,7 @@
 </a>
 </p>
 
-<br/><br/>
+<br/>
 
 ## 🚀 Current Projects
 
@@ -41,7 +41,9 @@
 - Refactoring my private repository into a specialized web scraper container to be incorporated as a microservice.
   - [branch:ci/deployment](https://github.com/maxo99/summonsscraper/tree/ci/deployment)
 
-## Professional Experience
+<br/>
+
+## 💼 Professional Experience
 
 ### **Data Collection Engineer**  - Orr Legal PLLC<div style="font-size:0.7em;">(Part-Time/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - Present*</div>
 
@@ -63,6 +65,8 @@
 - Enhanced application monitoring of runtime JMX metrics with dynamic alert thresholds via Dynatrace.
 - Developed an Android(Java) library for digital channel testing of push notifications.
 - Migrated high-volume messaging workflows to a serverless architecture using AWS SQS and Lambda Functions (Java).
+
+<br/>
 
 ## 🎓 Education
 
