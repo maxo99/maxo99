@@ -1,23 +1,24 @@
 <!-- markdownlint-disable MD033 -->
 
 <h1 align="center">Max Orr</h1>
-
-*Open to opportunities in web development, cloud architecture, AI/ML solutions.*
-
-## 📫 Let's Connect
-
 <p align="center">
     <a href="mailto:max.orr@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="max.orr@mail.com"/></a>
     <a href="https://www.linkedin.com/in/max-orr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/max-orr"/></a>
     <a href="https://github.com/maxo99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/maxo99"/></a>
 </p>
 
+<p align="center" >
+<i>Open to opportunities in web development, cloud architecture, AI/ML solutions.</i>
+</p>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=maxo99&show_icons=true&theme=transparent&hide_rank=true" alt="github-readme-stats"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxo99&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_progress=true" alt="github-readme-stats_top-langs"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxo99&layout=compact&langs_count=8&theme=transparent&hide_progress=true" alt="github-readme-stats_top-langs"/>
 </a>
+</p>
+
 <br/><br/>
 
 ## 🚀 Current Projects
