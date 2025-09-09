@@ -23,7 +23,7 @@
 
 ## 🚀 Current Projects
 
-### **[HomeSteadLab](https://github.com/maxo99/homesteadlab)**
+### **[HomesteadLab](https://github.com/maxo99/homesteadlab)**
 
 - Growing my semi-automated, permaculture homestead every day.
 - Gaining systems administration and management experience while building out a home network of interconnected services and sensors using Proxmox VE, OpenTofu (Terraform), Docker, and Ansible.
