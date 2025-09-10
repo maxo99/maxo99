@@ -28,6 +28,10 @@
 - Growing my semi-automated, permaculture homestead every day.
 - Gaining systems administration and management experience while building out a home network of interconnected services and sensors using Proxmox VE, OpenTofu (Terraform), Docker, and Ansible.
 
+#### [pve](https://github.com/maxo99/pve)
+
+- Deploying and maintaining of Proxmox VE using OpenTofu and Ansible.
+
 #### [insight-stack](https://github.com/maxo99/insight-stack)
 
 - A stack of self-hosted data services for ingesting, processing, and presenting real-time insights using Grafana and InfluxDB.
@@ -40,22 +44,22 @@
 
 ## 💼 Professional Experience
 
-### **Data Collection Engineer**  — Orr Legal PLLC<div style="font-size:0.7em;">(Part-Time/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - Present*</div>
+### **Data Collection Engineer**  — Orr Legal PLLC<div style="font-size:0.5em;">(Part-Time/Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2024 - Present*</div>
 
 - Build and maintain automated processes for legal document collection and processing using Selenium and PyMuPDF.
 
-### **Senior Software Engineer I** — eGain (AI-Services Team) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - May 2025*</div>
+### **Senior Software Engineer I** — eGain (AI-Services Team) <div style="font-size:0.5em;">(Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2024 - May 2025*</div>
 
 - Handled performance and A/B testing of embedding models and NLP libraries for indexing and semantically searching multimodal knowledge bases to build a high-confidence inference engine.
 - Led root-cause analysis and solution guidance through JIRA to support a growing team across multiple regions.
 
-### **Software Engineer II** — eGain (MicroServices/AI-Services Teams) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2022 - May 2024*</div>
+### **Software Engineer II** — eGain (MicroServices/AI-Services Teams) <div style="font-size:0.5em;">(Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2022 - May 2024*</div>
 
 - Created GitHub Actions CI pipelines for reporting vulnerabilities and ensuring FedRAMP compliance of multiple J2EE web applications.
 - Developed RESTful APIs from designing OpenAPI schemas to implementation of Hibernate entities and SQL queries.
 - Orchestrated migration of a stateless Python app to a set of scalable containerized microservices on AWS to facilitate AI inference adoption for a number of large-scale knowledge bases.
 
-### **Software Engineer I** — eGain (MessagingHub Team) <div style="font-size:0.7em;">(Tampa/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2019 - May 2022*</div>
+### **Software Engineer I** — eGain (MessagingHub Team) <div style="font-size:0.5em;">(Tampa/Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2019 - May 2022*</div>
 
 - Enhanced application monitoring of runtime JMX metrics with dynamic alert thresholds via Dynatrace.
 - Developed an Android(Java) library for digital channel testing of push notifications.
