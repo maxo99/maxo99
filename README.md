@@ -46,7 +46,8 @@
 
 ### **Data Collection Engineer**  — Orr Legal PLLC<div style="font-size:0.5em;">(Part-Time/Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2024 - Present*</div>
 
-- Build and maintain automated processes for legal document collection and processing using Selenium and PyMuPDF.
+- Automated the collection and processing of public docket records using Selenium (Python) and PyMuPDF.  
+- Achieved a 10x increase in throughput compared to the previous manual process. 
 
 ### **Senior Software Engineer I** — eGain (AI-Services Team) <div style="font-size:0.5em;">(Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2024 - May 2025*</div>
 
