@@ -30,7 +30,7 @@
 
 #### [pve](https://github.com/maxo99/pve)
 
-- Deploying and maintaining of Proxmox VE using OpenTofu and Ansible.
+- Deployment and configuration of a homelab environment using Proxmox VE for virtualization, Terraform for infrastructure provisioning, and Ansible for ongoing configuration and automation.
 
 #### [insight-stack](https://github.com/maxo99/insight-stack)
 
