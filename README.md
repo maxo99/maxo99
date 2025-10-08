@@ -8,18 +8,36 @@
 </p>
 
 <p align="center" >
-<i>Open to opportunities in web development, cloud architecture, and AI/ML solutions.</i>
+<i>Open to opportunities in web development, distributed systems, and AI/ML integrations.</i>
 </p>
 <p align="center">
 <a href="https://github.com/maxo99">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=maxo99&show_icons=true&theme=transparent" alt="github-readme-stats"/>
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=maxo99&show_icons=true&theme=transparent&hide_rank=true" alt="github-readme-stats"/>
 </a>
 <a href="https://github.com/maxo99">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxo99&layout=compact&langs_count=8&theme=transparent&hide_progress=true" alt="github-readme-stats_top-langs"/>
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxo99&layout=compact&langs_count=8&theme=transparent&hide_progress=true&hide=html,css,jupyter%20notebook,just" alt="github-readme-stats_top-langs"/>
 </a>
 </p>
 
 <br/>
+
+## Skills & Technologies
+
+<!-- **Advanced**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+**Familiar**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Learning**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) -->
+
+### Frameworks & Tools
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ## 🚀 Current Projects
 
@@ -44,23 +62,23 @@
 
 ## 💼 Professional Experience
 
-### **Data Collection Engineer**  — Orr Legal PLLC<div style="font-size:0.5em;">(Part-Time/Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2024 - Present*</div>
+### **Data Collection Engineer**  — Orr Legal PLLC<div style="font-size:0.7em;">(Part-Time/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - Present*</div>
 
 - Automated the collection and processing of public docket records using Selenium (Python) and PyMuPDF.  
-- Achieved a 10x increase in throughput compared to the previous manual process. 
+- Achieved a 10x increase in throughput compared to the previous manual process.
 
-### **Senior Software Engineer I** — eGain (AI-Services Team) <div style="font-size:0.5em;">(Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2024 - May 2025*</div>
+### **Senior Software Engineer I** — eGain (AI-Services Team) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - May 2025*</div>
 
 - Handled performance and A/B testing of embedding models and NLP libraries for indexing and semantically searching multimodal knowledge bases to build a high-confidence inference engine.
 - Led root-cause analysis and solution guidance through JIRA to support a growing team across multiple regions.
 
-### **Software Engineer II** — eGain (MicroServices/AI-Services Teams) <div style="font-size:0.5em;">(Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2022 - May 2024*</div>
+### **Software Engineer II** — eGain (MicroServices/AI-Services Teams) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2022 - May 2024*</div>
 
 - Created GitHub Actions CI pipelines for reporting vulnerabilities and ensuring FedRAMP compliance of multiple J2EE web applications.
 - Developed RESTful APIs from designing OpenAPI schemas to implementation of Hibernate entities and SQL queries.
 - Orchestrated migration of a stateless Python app to a set of scalable containerized microservices on AWS to facilitate AI inference adoption for a number of large-scale knowledge bases.
 
-### **Software Engineer I** — eGain (MessagingHub Team) <div style="font-size:0.5em;">(Tampa/Remote) </div> <div style="text-align: right; font-size:0.6em; margin-top: -1.2em;">*June 2019 - May 2022*</div>
+### **Software Engineer I** — eGain (MessagingHub Team) <div style="font-size:0.7em;">(Tampa/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2019 - May 2022*</div>
 
 - Enhanced application monitoring of runtime JMX metrics with dynamic alert thresholds via Dynatrace.
 - Developed an Android(Java) library for digital channel testing of push notifications.
