@@ -21,7 +21,7 @@
 
 <br/>
 
-## Skills & Technologies
+<!-- ## Skills & Technologies -->
 
 <!-- **Advanced**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,12 +34,12 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) -->
 
-### Frameworks & Tools
+<!-- ### Frameworks & Tools
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) -->
 
-## 🚀 Current Projects
+## Current Projects
 
 ### **[HomesteadLab](https://github.com/maxo99/homesteadlab)**
 
@@ -52,7 +52,14 @@
 
 #### [insight-stack](https://github.com/maxo99/insight-stack)
 
-- A stack of self-hosted data services for ingesting, processing, and presenting real-time insights using Grafana and InfluxDB.
+- A stack of self-hosted data services for ingesting, processing, and presenting real-time insights from home automation data using Grafana and InfluxDB.
+
+### **[sportsstack](https://github.com/maxo99/sportsstack)**
+
+- A personalized stack of sports data services for tracking and analyzing favorite teams.
+  - Data ingestion with FastAPI services and PgVector backend.
+  - Centralized gateway build with Spring Cloud Gateway.
+  - Agentic layer for autonomous decision-making using [OpenAI Go](https://pkg.go.dev/github.com/openai/openai-go)
 
 ### **[jobfinder](https://github.com/maxo99/jobfinder)**
 
@@ -60,7 +67,7 @@
 
 <br/>
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Data Collection Engineer**  — Orr Legal PLLC<div style="font-size:0.7em;">(Part-Time/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - Present*</div>
 
@@ -86,7 +93,7 @@
 
 <br/>
 
-## 🎓 Education
+## Education
 
 **Freedom High School**<br>
 *Honor Graduate* | Class of 2013
