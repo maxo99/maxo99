@@ -71,25 +71,33 @@
 
 ### **Data Collection Engineer**  — Orr Legal PLLC<div style="font-size:0.7em;">(Part-Time/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - Present*</div>
 
-- Automated the collection and processing of public docket records using Selenium (Python) and PyMuPDF.  
-- Achieved a 10x increase in throughput compared to the previous manual process.
+- Built an automated ETL pipeline leveraging Python (Selenium, PyMuPDF, Tesseract OCR) to extract public docket records, achieving a 10x throughput increase over manual processes.
+
+- Created a Streamlit-based interface using Pandas to enable interactive exploration and analysis of docket records.
 
 ### **Senior Software Engineer I** — eGain (AI-Services Team) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - May 2025*</div>
 
-- Handled performance and A/B testing of embedding models and NLP libraries for indexing and semantically searching multimodal knowledge bases to build a high-confidence inference engine.
-- Led root-cause analysis and solution guidance through JIRA to support a growing team across multiple regions.
+- Drove development of three Python microservices that powered the RAG inference platform, optimizing retrieval pipelines and context management for improved response quality.
+
+- Evaluated and selected embedding models, search engines, and NLP libraries through A/B testing and benchmarking to ensure optimal performance across multimodal knowledge bases.
+
+- Mentored engineers across multiple regions while leading Agile sprint planning and providing technical guidance on architecture decisions.
 
 ### **Software Engineer II** — eGain (MicroServices/AI-Services Teams) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2022 - May 2024*</div>
 
-- Created GitHub Actions CI pipelines for reporting vulnerabilities and ensuring FedRAMP compliance of multiple J2EE web applications.
-- Developed RESTful APIs from designing OpenAPI schemas to implementation of Hibernate entities and SQL queries.
-- Orchestrated migration of a stateless Python app to a set of scalable containerized microservices on AWS to facilitate AI inference adoption for a number of large-scale knowledge bases.
+- Architected and deployed a production RAG inference service on AWS using containerized Flask microservices, migrating from a proof-of-concept to a scalable production architecture.
+
+- Standardized Python repository best practices with appropriate service abstractions to facilitate test-driven development and robust CI/CD workflows.  
+
+- Led cross-functional efforts to standardize database and API schemas, enabling comprehensive end-to-end testing coverage across all public APIs.
 
 ### **Software Engineer I** — eGain (MessagingHub Team) <div style="font-size:0.7em;">(Tampa/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2019 - May 2022*</div>
 
-- Enhanced application monitoring of runtime JMX metrics with dynamic alert thresholds via Dynatrace.
-- Developed an Android(Java) library for digital channel testing of push notifications.
-- Migrated high-volume messaging workflows to a serverless architecture using AWS SQS and Lambda functions.
+- Migrated high-volume messaging workflows to a scalable serverless architecture using AWS SQS and Lambda functions, improving system reliability and reducing operational overhead.
+
+- Developed an Android SDK enabling Firebase push notification integration to establish mobile push messaging capabilities.
+
+- Enhanced application observability through runtime metrics, achieving a 25% reduction in garbage collection pauses.
 
 <br/>
 
