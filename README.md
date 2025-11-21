@@ -20,10 +20,11 @@
 </p>
 
 <br/>
-https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="04fda956-be48-4e15-8480-aed99f2fb077" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+[![Credly Badge](https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url)
+
+[AWS Certified AI Practitioner](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url)
 
 <!-- ## Skills & Technologies -->
 
