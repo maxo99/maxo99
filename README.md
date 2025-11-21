@@ -10,6 +10,16 @@
 <p align="center" >
 <i>Open to opportunities in web development, distributed systems, and AI/ML integrations.</i>
 </p>
+
+
+### Certifcations 
+
+[AWS Certified AI Practitioner](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url)
+
+[![Credly Badge](https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url)
+
+
+
 <p align="center">
 <a href="https://github.com/maxo99">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=maxo99&show_icons=true&theme=transparent&hide_rank=true" alt="github-readme-stats"/>
@@ -21,10 +31,10 @@
 
 <br/>
 
+## Published Projects
 
-[![Credly Badge](https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url)
+[Python Override Mark](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
 
-[AWS Certified AI Practitioner](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url)
 
 <!-- ## Skills & Technologies -->
 
