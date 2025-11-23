@@ -8,17 +8,25 @@
 </p>
 
 <p align="center" >
-<i>Open to opportunities in web development, distributed systems, and AI/ML integrations.</i>
+<i>Software Engineer specializing in Python and Java with 6+ years of production experience in AI integrations and microservices, complemented by hands-on infrastructure automation skills gained through building and maintaining homelab environments. </i>
 </p>
 
-
-### Certifcations 
-
-[AWS Certified AI Practitioner](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url)
-
-[![Credly Badge](https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url)
+---
 
 
+<!-- # TODO: Put expired one? -->
+<!-- <div data-iframe-width="400" data-iframe-height="270" data-share-badge-id="04fda956-be48-4e15-8480-aed99f2fb077" data-share-badge-host="https://www.credly.com"></div> -->
+
+
+
+
+<!-- [AWS Certified AI Practitioner](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url) -->
+
+<p align="center">
+<a href="https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url">
+  <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner Badge" width="170"/>
+</a>
+</p>
 
 <p align="center">
 <a href="https://github.com/maxo99">
@@ -31,9 +39,6 @@
 
 <br/>
 
-## Published Projects
-
-[Python Override Mark](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
 
 
 <!-- ## Skills & Technologies -->
@@ -54,20 +59,26 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) -->
 
-## Current Projects
+## Projects
+
 
 ### **[HomesteadLab](https://github.com/maxo99/homesteadlab)**
 
 - Growing my semi-automated, permaculture homestead every day.
 - Gaining systems administration and management experience while building out a home network of interconnected services and sensors using Proxmox VE, OpenTofu (Terraform), Docker, and Ansible.
 
+
 #### [pve](https://github.com/maxo99/pve)
 
 - Deployment and configuration of a homelab environment using Proxmox VE for virtualization, Terraform for infrastructure provisioning, and Ansible for ongoing configuration and automation.
 
+
 #### [insight-stack](https://github.com/maxo99/insight-stack)
 
 - A stack of self-hosted data services for ingesting, processing, and presenting real-time insights from home automation data using Grafana and InfluxDB.
+
+---
+
 
 ### **[sportsstack](https://github.com/maxo99/sportsstack)**
 
@@ -76,9 +87,20 @@
   - Centralized gateway build with Spring Cloud Gateway.
   - Agentic layer for autonomous decision-making using [OpenAI Go](https://pkg.go.dev/github.com/openai/openai-go)
 
+---
+
+
 ### **[jobfinder](https://github.com/maxo99/jobfinder)**
 
 - Leveraging Retrieval-Augmented Generation (RAG) methods to optimize job search workflows.
+
+---
+
+
+### [vscode.python-override-mark](../external/projects/vscode.python-override-mark/README.md)
+
+- VSCode extension to visually mark overridden methods in Python code, enhancing code readability and navigation.
+- Available on the Visual Studio Marketplace: [python-override-mark](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
 
 <br/>
 
@@ -90,6 +112,9 @@
 
 - Created a Streamlit-based interface using Pandas to enable interactive exploration and analysis of docket records.
 
+---
+
+
 ### **Senior Software Engineer I** — eGain (AI-Services Team) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - May 2025*</div>
 
 - Drove development of three Python microservices that powered the RAG inference platform, optimizing retrieval pipelines and context management for improved response quality.
@@ -98,6 +123,9 @@
 
 - Mentored engineers across multiple regions while leading Agile sprint planning and providing technical guidance on architecture decisions.
 
+---
+
+
 ### **Software Engineer II** — eGain (MicroServices/AI-Services Teams) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2022 - May 2024*</div>
 
 - Architected and deployed a production RAG inference service on AWS using containerized Flask microservices, migrating from a proof-of-concept to a scalable production architecture.
@@ -105,6 +133,9 @@
 - Standardized Python repository best practices with appropriate service abstractions to facilitate test-driven development and robust CI/CD workflows.  
 
 - Led cross-functional efforts to standardize database and API schemas, enabling comprehensive end-to-end testing coverage across all public APIs.
+
+---
+
 
 ### **Software Engineer I** — eGain (MessagingHub Team) <div style="font-size:0.7em;">(Tampa/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2019 - May 2022*</div>
 
