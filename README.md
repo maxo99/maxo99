@@ -13,20 +13,62 @@
 
 ---
 
-
 <!-- # TODO: Put expired one? -->
 <!-- <div data-iframe-width="400" data-iframe-height="270" data-share-badge-id="04fda956-be48-4e15-8480-aed99f2fb077" data-share-badge-host="https://www.credly.com"></div> -->
 
+<!-- ![Langchain Academy](https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/66e9eba1020525eea7873f96_LCA-big-green%20(2).svg) -->
 
-
-
-<!-- [AWS Certified AI Practitioner](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url) -->
+<!-- [LangChain Academy Quickstart: LangGraph Essentials - Python](https://academy.langchain.com/certificates/mnbt0vqbzb)
+ -->
 
 <p align="center">
 <a href="https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url">
   <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner Badge" width="170"/>
 </a>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://academy.langchain.com/certificates/mnbt0vqbzb">
+        <img src="assets/certs/langchainacademy.svg"
+             alt="LangChain Academy - Quickstart: LangGraph Essentials - Python"
+             width="150"/>
+        <br/>
+        <sub><b>LangGraph Essentials - Python</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://academy.langchain.com/certificates/btmi4quyzs">
+        <img src="assets/certs/langchainacademy.svg"
+             alt="LangChain Academy - Project: Deep Agents"
+             width="150"/>
+        <br/>
+        <sub><b>Deep Agents</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://academy.langchain.com/certificates/1gonckh31h">
+        <img src="assets/certs/langchainacademy.svg"
+             alt="LangSmith Essentials"
+             width="150"/>
+        <br/>
+        <sub><b>LangSmith Essentials</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://academy.langchain.com/certificates/argsumpdt1">
+        <img src="assets/certs/langchainacademy.svg"
+             alt="LangChain Essentials - Python"
+             width="150"/>
+        <br/>
+        <sub><b>LangChain Essentials - Python</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- [AWS Certified AI Practitioner](https://www.credly.com/badges/04fda956-be48-4e15-8480-aed99f2fb077/public_url) -->
 
 <p align="center">
 <a href="https://github.com/maxo99">
@@ -38,8 +80,6 @@
 </p>
 
 <br/>
-
-
 
 <!-- ## Skills & Technologies -->
 
@@ -61,24 +101,20 @@
 
 ## Projects
 
-
 ### **[HomesteadLab](https://github.com/maxo99/homesteadlab)**
 
 - Growing my semi-automated, permaculture homestead every day.
 - Gaining systems administration and management experience while building out a home network of interconnected services and sensors using Proxmox VE, OpenTofu (Terraform), Docker, and Ansible.
 
-
 #### [pve](https://github.com/maxo99/pve)
 
 - Deployment and configuration of a homelab environment using Proxmox VE for virtualization, Terraform for infrastructure provisioning, and Ansible for ongoing configuration and automation.
-
 
 #### [insight-stack](https://github.com/maxo99/insight-stack)
 
 - A stack of self-hosted data services for ingesting, processing, and presenting real-time insights from home automation data using Grafana and InfluxDB.
 
 ---
-
 
 ### **[sportsstack](https://github.com/maxo99/sportsstack)**
 
@@ -89,13 +125,11 @@
 
 ---
 
-
 ### **[jobfinder](https://github.com/maxo99/jobfinder)**
 
 - Leveraging Retrieval-Augmented Generation (RAG) methods to optimize job search workflows.
 
 ---
-
 
 ### [vscode.python-override-mark](../external/projects/vscode.python-override-mark/README.md)
 
@@ -114,7 +148,6 @@
 
 ---
 
-
 ### **Senior Software Engineer I** — eGain (AI-Services Team) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2024 - May 2025*</div>
 
 - Drove development of three Python microservices that powered the RAG inference platform, optimizing retrieval pipelines and context management for improved response quality.
@@ -125,7 +158,6 @@
 
 ---
 
-
 ### **Software Engineer II** — eGain (MicroServices/AI-Services Teams) <div style="font-size:0.7em;">(Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2022 - May 2024*</div>
 
 - Architected and deployed a production RAG inference service on AWS using containerized Flask microservices, migrating from a proof-of-concept to a scalable production architecture.
@@ -135,7 +167,6 @@
 - Led cross-functional efforts to standardize database and API schemas, enabling comprehensive end-to-end testing coverage across all public APIs.
 
 ---
-
 
 ### **Software Engineer I** — eGain (MessagingHub Team) <div style="font-size:0.7em;">(Tampa/Remote) </div> <div style="text-align: right; font-size:0.8em; margin-top: -1.2em;">*June 2019 - May 2022*</div>
 
