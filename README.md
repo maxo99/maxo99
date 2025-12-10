@@ -2,13 +2,34 @@
 
 <h1 align="center">Max Orr</h1>
 <p align="center">
-    <a href="mailto:max.orr@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="max.orr@mail.com"/></a>
-    <a href="https://www.linkedin.com/in/max-orr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/max-orr"/></a>
-    <a href="https://github.com/maxo99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/maxo99"/></a>
+   <a href="mailto:max.orr@mail.com"
+      ><img
+         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="max.orr@mail.com"
+   /></a>
+   <a href="https://www.linkedin.com/in/max-orr"
+      ><img
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="https://www.linkedin.com/in/max-orr"
+   /></a>
+   <a href="https://github.com/maxo99"
+      ><img
+         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+         alt="https://github.com/maxo99"
+   /></a>
+   <a href="https://huggingface.com/maxo99"
+      ><img
+         src="https://img.shields.io/badge/-HuggingFace-3B4252?style=for-the-badge&logo=huggingface"
+         alt="https://huggingface.com/maxo99"
+   /></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark"><img
+        src="https://img.shields.io/badge/Visual%20Studio%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+        alt="https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark"/>
+  </a>
 </p>
 
 <p align="center" >
-<i>Software Engineer specializing in Python and Java with 6+ years of production experience in AI integrations and microservices, complemented by hands-on infrastructure automation skills gained through building and maintaining homelab environments. </i>
+<i>Full Stack Software Engineer specializing in Python and Java with 6+ years of production experience in AI integrations and microservices, complemented by hands-on infrastructure automation skills gained through building and maintaining homelab environments. </i>
 </p>
 
 ---
@@ -99,7 +120,29 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) -->
 
-## Projects
+## Releases
+
+### **[Sports-Injury-NER](https://github.com/maxo99/sports-injury-ner)**
+
+<a href="https://huggingface.co/maxo99/sports-injury-ner">
+  <img
+    alt="Hugging Face Downloads"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmaxo99%2Fsports-injury-ner%3Fexpand%255B%255D%3Ddownloads%26expand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=maxo99%2Fsports-injury-ner&color=blue&logo=huggingface">
+</a>
+
+- Named Entity Recognition (NER) model fine-tuned on a custom dataset of sports injury reports.
+
+### [vscode.python-override-mark](../external/projects/vscode.python-override-mark/README.md)
+
+<a href="https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark">
+ <img
+    alt="Visual Studio Marketplace Installs"
+    src="https://img.shields.io/visual-studio-marketplace/i/maxorr.python-override-mark?label=vs%20marketplace&logo=visual-studio&color=blue">
+</a>
+
+- VSCode extension to visually mark overridden methods in Python code, enhancing code readability and navigation.
+
+## Current Projects
 
 ### **[HomesteadLab](https://github.com/maxo99/homesteadlab)**
 
@@ -130,11 +173,6 @@
 - Leveraging Retrieval-Augmented Generation (RAG) methods to optimize job search workflows.
 
 ---
-
-### [vscode.python-override-mark](../external/projects/vscode.python-override-mark/README.md)
-
-- VSCode extension to visually mark overridden methods in Python code, enhancing code readability and navigation.
-- Available on the Visual Studio Marketplace: [python-override-mark](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
 
 <br/>
 
