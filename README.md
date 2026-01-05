@@ -130,12 +130,12 @@
 
 ### **[Sports-Injury-NER](https://github.com/maxo99/sports-injury-ner)**
 
-![GitHub tag version](https://img.shields.io/github/v/tag/maxo99/sports-injury-ner?label=version&logo=github&color=blue)
+![GitHub tag version](https://img.shields.io/github/v/tag/maxo99/sports-injury-ner?label=version&logo=github)
 <a href="https://huggingface.co/maxo99/sports-injury-ner">
   <img
     alt="Hugging Face Downloads"
     src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmaxo99%2Fsports-injury-ner%3Fexpand%255B%255D%3Ddownloads%26expand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=maxo99%2Fsports-injury-ner&color=blue&logo=huggingface">
-</a>
+</a>[![CI](https://github.com/maxo99/sports-injury-ner/actions/workflows/ci.yml/badge.svg)](https://github.com/maxo99/sports-injury-ner/actions/workflows/ci.yml)
 
 <!-- [![uv](https://img.shields.io/badge/uv-python%20package%20manager-111827?logo=uv&logoColor=white)](https://docs.astral.sh/uv/) -->
 [![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -164,27 +164,34 @@
 
 ## Current Projects
 
-### **[HomesteadLab](https://github.com/maxo99/homesteadlab)**
+### **[SportsVisualizer Agent](https://github.com/maxo99/sportsagent)**
 
-- Growing my semi-automated, permaculture homestead every day.
-- Gaining systems administration and management experience while building out a home network of interconnected services and sensors using Proxmox VE, Terraform (OpenTofu), Docker, and Ansible.
-
-#### [pve](https://github.com/maxo99/pve)
-
-- Deployment and configuration of a homelab environment using Proxmox VE for virtualization, Terraform for infrastructure provisioning, and Ansible for ongoing configuration and automation.
-
-#### [insight-stack](https://github.com/maxo99/insight-stack)
-
-- A stack of self-hosted data services for ingesting, processing, and presenting real-time insights from home automation data using Grafana and InfluxDB.
+- Built SportsAgent, an autonomous LangGraph-orchestrated NFL stats analyst that alternates Retrieval (via nflreadpy) and LLM-driven Analysis, with Human-in-the-Loop (HITL) checkpoints for costly actions (data fetch, visualization execution, report saving).
+- Generates on-demand interactive Plotly visualizations (agent writes + executes chart code) and supports stateful follow-ups like “compare X vs Y → now add Z” across turns, including player/position/team (and “ALL teams”) queries.
+- Shipped with a Streamlit UI for workflow tracing, data inspection, and chart rendering, plus a tested uv-managed Python app/CLI for reproducible runs.
 
 ---
 
 ### **[sportsstack](https://github.com/maxo99/sportsstack)**
 
-- A personalized stack of sports data services for tracking and analyzing favorite teams.
-  - Data ingestion with FastAPI services and PgVector backend.
-  - Centralized gateway build with Spring Cloud Gateway.
-  - Agentic layer for autonomous decision-making using [OpenAI Go](https://pkg.go.dev/github.com/openai/openai-go)
+- Built “SportsStack”: a Kubernetes + Helm–deployed microservices platform that ingests sports news and betting odds, exposes a unified API via Spring Cloud Gateway, and supports automated collection via CronJobs/HPAs.
+- Shipped a polyglot stack across Go + Python/FastAPI + Java (Spring), backed by TimescaleDB/Postgres + pgvector for time-series + vector search use cases.
+- Implemented a full observability setup (Grafana, Prometheus, Loki, Tempo) and a repeatable local-dev workflow via just + Kind for fast build/deploy/monitor loops.
+
+---
+
+### **[HomesteadLab](https://github.com/maxo99/homesteadlab)**
+
+- Growing my semi-automated, permaculture homestead every day.
+- Gaining systems administration and management experience while building out a home network of interconnected services and sensors using Proxmox VE, Terraform (OpenTofu), Docker, and Ansible.
+
+#### [HomesteadLab: pve](https://github.com/maxo99/pve)
+
+- Deployment and configuration of a homelab environment using Proxmox VE for virtualization, Terraform for infrastructure provisioning, and Ansible for ongoing configuration and automation.
+
+#### [HomesteadLab: insight-stack](https://github.com/maxo99/insight-stack)
+
+- A stack of self-hosted data services for ingesting, processing, and presenting real-time insights from home automation data using Grafana and InfluxDB.
 
 ---
 
