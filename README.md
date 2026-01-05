@@ -1,7 +1,13 @@
 <!-- markdownlint-disable MD033 -->
 
 <h1 align="center">Max Orr</h1>
+
 <p align="center">
+  <a href="https://maxorr.com"
+    ><img
+      src="https://img.shields.io/badge/Website-maxorr.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="https://maxorr.com"
+  /></a>
    <a href="mailto:max.orr@mail.com"
       ><img
          src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -124,30 +130,44 @@
 
 ### **[Sports-Injury-NER](https://github.com/maxo99/sports-injury-ner)**
 
+![GitHub tag version](https://img.shields.io/github/v/tag/maxo99/sports-injury-ner?label=version&logo=github&color=blue)
 <a href="https://huggingface.co/maxo99/sports-injury-ner">
   <img
     alt="Hugging Face Downloads"
     src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmaxo99%2Fsports-injury-ner%3Fexpand%255B%255D%3Ddownloads%26expand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=maxo99%2Fsports-injury-ner&color=blue&logo=huggingface">
 </a>
 
-- Named Entity Recognition (NER) model fine-tuned on a custom dataset of sports injury reports.
+<!-- [![uv](https://img.shields.io/badge/uv-python%20package%20manager-111827?logo=uv&logoColor=white)](https://docs.astral.sh/uv/) -->
+[![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-evaluation-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)
+[![MLFlow](https://img.shields.io/badge/MLFlow-experiment%20tracking-13B9FD?logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![DVC](https://img.shields.io/badge/DVC-data%20version%20control-4B4B4B?logo=dvc&logoColor=white)](https://dvc.org/)
+<!-- [![TensorBoard](https://img.shields.io/badge/TensorBoard-training%20visualization-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/tensorboard)
+[![seqeval](https://img.shields.io/badge/seqeval-NER%20metrics-1E88E5)](https://github.com/chakki-works/seqeval) -->
 
-### [vscode.python-override-mark](../external/projects/vscode.python-override-mark/README.md)
+<!-- [![Transformers](https://img.shields.io/badge/Transformers-huggingface-FF6F61?logo=transformers&logoColor=white)](https://huggingface.co/docs/transformers/index) -->
+- Fine-tuned [microsoft/SportsBERT](https://huggingface.co/microsoft/SportsBERT) into a NER model that extracts `PLAYER`, `INJURY`, `STATUS`, and `TEAM` from sports news, with reported evaluation metrics (F1 96.31%, accuracy 98.28% as of 2025-12-21).
+- Built a reproducible weak supervision + active learning pipeline (keyword + baseline NER silver labels → uncertainty/conflict-based sampling for human review), tracked with DVC + MLflow and supported by tests.
+</br>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark">
- <img
-    alt="Visual Studio Marketplace Installs"
-    src="https://img.shields.io/visual-studio-marketplace/i/maxorr.python-override-mark?label=vs%20marketplace&logo=visual-studio&color=blue">
-</a>
+### [Python Override Mark](https://github.com/maxo99/python-override-mark/README)
 
-- VSCode extension to visually mark overridden methods in Python code, enhancing code readability and navigation.
+[![Version](https://img.shields.io/visual-studio-marketplace/v/maxorr.python-override-mark.svg?style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/maxorr.python-override-mark.svg?color=blue&style=flat&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/maxorr.python-override-mark.svg?color=blue&style=flat&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
+[![Build Status](https://github.com/maxo99/vscode.python-override-mark/actions/workflows/test.yml/badge.svg)](https://github.com/maxo99/vscode.python-override-mark/actions/workflows/test.yml)
+
+[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)](https://www.typescriptlang.org/)
+[![VS Code API](https://shields.io/badge/VS%20Code-API-007ACC?logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/api)
+
+- Visual Studio Code extension to provide inline CodeLens to visually mark overridden and implemented inheritance in Python code, enhancing code readability and navigation.
 
 ## Current Projects
 
 ### **[HomesteadLab](https://github.com/maxo99/homesteadlab)**
 
 - Growing my semi-automated, permaculture homestead every day.
-- Gaining systems administration and management experience while building out a home network of interconnected services and sensors using Proxmox VE, OpenTofu (Terraform), Docker, and Ansible.
+- Gaining systems administration and management experience while building out a home network of interconnected services and sensors using Proxmox VE, Terraform (OpenTofu), Docker, and Ansible.
 
 #### [pve](https://github.com/maxo99/pve)
 
