@@ -150,7 +150,7 @@
 - Built a reproducible weak supervision + active learning pipeline (keyword + baseline NER silver labels → uncertainty/conflict-based sampling for human review), tracked with DVC + MLflow and supported by tests.
 </br>
 
-### [Python Override Mark](https://github.com/maxo99/vscode.python-override-mark/README)
+### [Python Override Mark](https://github.com/maxo99/vscode.python-override-mark)
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/maxorr.python-override-mark.svg?style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/maxorr.python-override-mark.svg?color=blue&style=flat&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=maxorr.python-override-mark)
